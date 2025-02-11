@@ -2,9 +2,9 @@
 
 Here is the link to [the first document I made](readme.md)  
 
-Here is my subscript text: V&#775;O<sub>2</sub>     
+Here is my subscript text: V&#775;O<sub>2</sub>   
 
-<img src="(link to subfolder)" style="float:right;">  
+<img src="Images/cat%20photo.jpg" style="float:right;">  
 
 done title 
 coloured text
