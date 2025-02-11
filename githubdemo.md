@@ -13,6 +13,6 @@ Here is the link to [the first document I made in GitHub.](readme.md)
   </tr>
 </table>
 
-The link to the above image is [here.](KNES381/Images/VO2maxtest.jpg)
+The link to the above image is [here.](Images/VO2maxtest.jpg)
 
 <img src="https://raw.githubusercontent.com/sarafrostad/KNES381/main/Images/colouredtext.svg">
