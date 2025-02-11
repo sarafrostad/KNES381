@@ -1,10 +1,15 @@
-<h1 align="center">This is my centred title</h1> 
+<h1 align="center">HTML demo</h1> 
 
-Here is my link to [another document](readme.md)  
-Here is my subscript text: VO<sub>2</sub>
+Here is the link to [the first document I made](readme.md)  
 
-title done 
+Here is my subscript text: V&#775;O<sub>2</sub>     
+
+<img src="(link to subfolder)" style="float:right;">  
+
+done title 
 coloured text
 picture to the right of some text
-link done 
-subscript text done 
+done link  
+done subscript text  
+hyperlink to a file in a subfolder (can be the image (instead of the link)) 
+done scientific notation (dot over the V or x)
